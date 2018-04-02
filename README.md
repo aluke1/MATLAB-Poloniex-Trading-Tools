@@ -1,5 +1,6 @@
 # MATLAB-Poloniex-Trading-Tools
 This repository contains MATLAB functions file for executing trades and other actions on the Poloniex Exchange.
+
 By: Adam Luke, Adason Financial, 2018 
 
 Files include: 
